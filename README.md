@@ -1,2 +1,2 @@
 # Our-Engine
-an c++ game engine
+An C++ Game Engine
